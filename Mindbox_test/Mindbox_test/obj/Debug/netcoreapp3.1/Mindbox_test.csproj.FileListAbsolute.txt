@@ -1,0 +1,17 @@
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Mindbox_test\bin\Debug\netcoreapp3.1\Mindbox_test.exe
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Mindbox_test\bin\Debug\netcoreapp3.1\Mindbox_test.deps.json
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Mindbox_test\bin\Debug\netcoreapp3.1\Mindbox_test.runtimeconfig.json
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Mindbox_test\bin\Debug\netcoreapp3.1\Mindbox_test.runtimeconfig.dev.json
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Mindbox_test\bin\Debug\netcoreapp3.1\Mindbox_test.dll
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Mindbox_test\bin\Debug\netcoreapp3.1\Mindbox_test.pdb
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Mindbox_test\obj\Debug\netcoreapp3.1\Mindbox_test.csproj.AssemblyReference.cache
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Mindbox_test\obj\Debug\netcoreapp3.1\Mindbox_test.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Mindbox_test\obj\Debug\netcoreapp3.1\Mindbox_test.AssemblyInfoInputs.cache
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Mindbox_test\obj\Debug\netcoreapp3.1\Mindbox_test.AssemblyInfo.cs
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Mindbox_test\obj\Debug\netcoreapp3.1\Mindbox_test.csproj.CoreCompileInputs.cache
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Mindbox_test\obj\Debug\netcoreapp3.1\Mindbox_test.dll
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Mindbox_test\obj\Debug\netcoreapp3.1\Mindbox_test.pdb
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Mindbox_test\obj\Debug\netcoreapp3.1\Mindbox_test.genruntimeconfig.cache
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Mindbox_test\bin\Debug\netcoreapp3.1\Test_Library.dll
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Mindbox_test\bin\Debug\netcoreapp3.1\Test_Library.pdb
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Mindbox_test\obj\Debug\netcoreapp3.1\Mindbox_test.csproj.CopyComplete

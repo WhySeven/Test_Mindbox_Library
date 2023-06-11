@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mindbox_test/1.0.0": {
+        "dependencies": {
+          "Test_Library": "1.0.0"
+        },
+        "runtime": {
+          "Mindbox_test.dll": {}
+        }
+      },
+      "Test_Library/1.0.0": {
+        "runtime": {
+          "Test_Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mindbox_test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Test_Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

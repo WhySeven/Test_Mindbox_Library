@@ -1,0 +1,10 @@
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Test_Library\bin\Debug\netcoreapp3.1\Test_Library.deps.json
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Test_Library\bin\Debug\netcoreapp3.1\Test_Library.dll
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Test_Library\bin\Debug\netcoreapp3.1\Test_Library.pdb
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Test_Library\obj\Debug\netcoreapp3.1\Test_Library.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Test_Library\obj\Debug\netcoreapp3.1\Test_Library.AssemblyInfoInputs.cache
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Test_Library\obj\Debug\netcoreapp3.1\Test_Library.AssemblyInfo.cs
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Test_Library\obj\Debug\netcoreapp3.1\Test_Library.csproj.CoreCompileInputs.cache
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Test_Library\obj\Debug\netcoreapp3.1\Test_Library.dll
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Test_Library\obj\Debug\netcoreapp3.1\Test_Library.pdb
+G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Test_Library\obj\Debug\netcoreapp3.1\Test_Library.csproj.AssemblyReference.cache

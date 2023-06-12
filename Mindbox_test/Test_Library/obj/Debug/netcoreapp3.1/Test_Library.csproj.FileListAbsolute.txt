@@ -7,4 +7,3 @@ G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Test_Library\obj\
 G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Test_Library\obj\Debug\netcoreapp3.1\Test_Library.csproj.CoreCompileInputs.cache
 G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Test_Library\obj\Debug\netcoreapp3.1\Test_Library.dll
 G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Test_Library\obj\Debug\netcoreapp3.1\Test_Library.pdb
-G:\Programs\MyGitHubProjects\Test_Mindbox_Library\Mindbox_test\Test_Library\obj\Debug\netcoreapp3.1\Test_Library.csproj.AssemblyReference.cache
